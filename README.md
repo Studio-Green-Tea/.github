@@ -1,4 +1,4 @@
-![](E:\绿茶汉化组\markdown\ad_horizontal.png)
+![](.\ad_horizontal.png)
 
 ------
 
@@ -22,7 +22,7 @@
 
 ------
 
-若非特别声明，本组字幕作品基于 [CC BY-NC-ND 4.0 协议](https://creativecommons.org/licenses/by-nc-nd/4.0/) 进行共享。<img src="E:\绿茶汉化组\markdown\by-nc-nd.png" style="zoom:50%;" />
+若非特别声明，本组字幕作品基于 [CC BY-NC-ND 4.0 协议](https://creativecommons.org/licenses/by-nc-nd/4.0/) 进行共享。<img src=".\by-nc-nd.png" style="zoom:20%;" />
 
 - **禁止**用于商业目的或参与商业性质的项目。**禁止**发布不可逆的修改版字幕。
 - 可以自由转载，但转载时不得修改原始作品内容，并注明作品来源。
