@@ -2,7 +2,7 @@
 
 ------
 
-  **简体中文**|[**繁體中文**](./README_CHT.md)
+  **简体中文 | [繁體中文](./README_CHT.md)**
 
   # 这里是 **绿茶字幕组**
 
@@ -14,7 +14,7 @@
 
   本组制作的OPED会发布于[bilibili](https://space.bilibili.com/5774653)账号，欢迎点击关注。
 
-  若您发现本组字幕出现错字、错译、错轴等问题，可联系交流群管理员，也可以提交[issue]()或[pull request]()。
+  若您发现本组字幕出现错字、错译、错轴等问题，可联系交流群管理员，也可以提交[issue](https://github.com/Studio-Green-Tea/Studio-GreenTea-Subtitle-Storage/issues)或[pull request](https://github.com/Studio-Green-Tea/Studio-GreenTea-Subtitle-Storage/pulls)。
 
   ## 字幕转载说明
 
@@ -23,3 +23,4 @@
   - **禁止**用于商业目的或参与商业性质的项目。**禁止**发布不可逆的修改版字幕。
   - 可以自由转载，但转载时不得修改原始作品内容，并注明作品来源。
   - 可以根据本组作品发布修改版作品（包括但不限于调整时间轴、修改字符等），但发布时须注明作品来源并附带原始作品。
+
