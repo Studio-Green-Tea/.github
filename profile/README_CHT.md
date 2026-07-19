@@ -1,4 +1,4 @@
-<img src=".\ad_horizontal.png" style="zoom:50%;" />
+<img src="./ad_horizontal.png" style="zoom:50%;" />
 
 ------
 
@@ -14,7 +14,7 @@
 
   本組製作的OPED會發布於[bilibili](https://space.bilibili.com/5774653)帳號，歡迎點擊關注。
 
-  若您發現本組字幕出現錯字、錯譯、錯軸等問題，可聯繫交流群管理員，也可以提交[issue]()或[pull request]()。
+  若您發現本組字幕出現錯字、錯譯、錯軸等問題，可聯繫交流群管理員，也可以提交[問題回報](https://github.com/Studio-Green-Tea/Studio-GreenTea-Subtitle-Storage/issues/new?template=problem-feedback.yml)。如希望直接提供修正，可以提交 [Pull Request](https://github.com/Studio-Green-Tea/Studio-GreenTea-Subtitle-Storage/pulls)；提交前請閱讀[貢獻指南](../CONTRIBUTING.md)。
 
   ## 字幕轉載說明
 
@@ -23,6 +23,11 @@
   - 禁止**商用**：不得用於商業目的或參與商業性質項目。
   - 禁止**修改**：不得發布任何修改版（包括但不限於內嵌、壓制、調整時間軸等）。
   - 轉載規範：可自由轉載，但須**保持內容完整並註明出處**。
+
+  「禁止修改」是指未經單獨授權，不得在本倉庫之外向公眾發布字幕修改版；這不妨礙透過 Issue 或 Pull Request 向官方倉庫提出修正。提交 Pull Request 代表貢獻者同意由本組審閱、編輯、合併並發布相關貢獻，具體規則請參閱[貢獻指南](../CONTRIBUTING.md)。
+
+  ### 許可範圍
+  本協議僅適用於本組或貢獻者有權許可的翻譯、時間軸、字幕樣式和其他原創內容。動畫原作、原始台詞、商標、字體、圖片及其他第三方材料仍歸各自權利人所有。
 
   ### 關於組間合作：
   如有聯合漢化、授權壓制等合作意向，請先聯繫本組獲取**單獨授權**。\
